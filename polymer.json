@@ -1,0 +1,10 @@
+{
+    "entrypoint": "index.html",
+    "shell": "entrypoint-app.js",
+    "src":"dist/entrypoint-app.js",
+    "extraDependencies": [
+      "node_modules/@webcomponents/webcomponentsjs/**"
+    ],
+    "moduleResolution": "node",
+    "npm": true
+  }
