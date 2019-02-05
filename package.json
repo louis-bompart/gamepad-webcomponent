@@ -1,0 +1,25 @@
+{
+  "name": "gamepad-webcomponent",
+  "version": "0.0.1",
+  "description": "An implementation of the GamepadAPI with WebComponent & Lit-Element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louis-bompart/gamepad-webcomponent.git"
+  },
+  "keywords": [
+    "polymer",
+    "gamepad",
+    "webcomponent",
+    "lit-element"
+  ],
+  "author": "Louis 'Pixhel' Bompart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/louis-bompart/gamepad-webcomponent/issues"
+  },
+  "homepage": "https://github.com/louis-bompart/gamepad-webcomponent#readme"
+}
